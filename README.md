@@ -13,3 +13,4 @@ review_data.csv contains all data related to the reviews
 We chose to focus on the Toronto area since it was the area with the most amount of businesses and users
 
 
+This repository contais all the source files developed to process the data and to obtain the results. The process and reasoning is detailed in the pdf
